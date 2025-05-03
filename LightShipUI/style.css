@@ -543,13 +543,25 @@ canvas{
     height: 100%;
     width: 30%;
     padding: 2vw;
+    margin-top: 40px;
 }
 #footer .elem h5{
     font-family: gilroy;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 10px;
+    
 }
+.elem h5 a{
+    text-decoration: none;
+    color: black;
+    font-family: gilroy;
+}
+#footer .elem h5 a:hover{
+    text-decoration: underline;
+    color: gray;
+}
+
 #footer .elem #row{
     display: flex;
     align-items: center;
