@@ -1,4 +1,4 @@
-/* ===( Build By : CODE AASHU )=== */
+
 function loco() {
   gsap.registerPlugin(ScrollTrigger);
 
